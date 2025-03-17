@@ -1,3 +1,4 @@
+![Uploading image.png…]()
 download the gen from mega.nz couldn't upload here due to regulations
 
 put twitter tokens in tokens.txt 

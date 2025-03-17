@@ -1,0 +1,3 @@
+proxy: "http://geonode_W9S1dbDvCC-type-residential-country-nl:35355ca9-7e48-420d-b5a1-1915a177f87e@192.155.103.209:9000" # dont remove http://
+threads : 10
+scrappey: '8p529Bb0EgmH1DN2T062YqQ8LfGCQUU8c4rKfpX37Wyamjzm1W0fZnI'
